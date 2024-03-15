@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://i.ibb.co/VSGZwRh/technology-communication-icons-symbols-concept.jpg",
+      "title": "Exploring the Depths of AI",
+      "author_img": "https://i.ibb.co/6ynbJgP/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+      "author_name": "Alex Smith",
+      "reading_time": 10,
+      "posted_date": "2024-03-14",
+      "hashtags": ["AI", "MachineLearning", "Technology"]
+    },
+    {
+      "id": 2,
+      "cover_image": "https://i.ibb.co/LdVjLSr/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Artificial Intelligence in Healthcare",
+      "author_img": "https://i.ibb.co/wJb2VGX/female-painter-pretending-take-color-from-palette.jpg",
+      "author_name": "Emily Johnson",
+      "reading_time": 8,
+      "posted_date": "2024-03-12",
+      "hashtags": ["HealthTech", "AI", "Innovation"]
+    },
+    {
+      "id": 3,
+      "cover_image": "https://i.ibb.co/mCFYtmY/online-blog.jpg",
+      "title": "The Future of Space Exploration",
+      "author_img": "https://i.ibb.co/jGSHkpr/portrait-pensive-mature-authoress-eyeglasses.jpg",
+      "author_name": "Mark Davis",
+      "reading_time": 15,
+      "posted_date": "2024-03-10",
+      "hashtags": ["Space", "Exploration", "Technology"]
+    },
+    {
+      "id": 4,
+      "cover_image": "https://i.ibb.co/NZspCgR/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+      "title": "Designing User-Centric Experiences",
+      "author_img": "https://i.ibb.co/x7pv22q/successful-employee-posing-red-background.jpg",
+      "author_name": "Sarah Lee",
+      "reading_time": 12,
+      "posted_date": "2024-03-08",
+      "hashtags": ["UXDesign", "UserExperience", "DesignThinking"]
+    },
+    {
+      "id": 5,
+      "cover_image": "https://i.ibb.co/gS74JhL/leadership-concept-grey-white-table-side-view-hand-picking-up-wooden-cube.jpg",
+      "title": "The Rise of Sustainable Technologies",
+      "author_img": "https://i.ibb.co/yBVhkFL/lovely-woman.jpg",
+      "author_name": "Michael Brown",
+      "reading_time": 9,
+      "posted_date": "2024-03-06",
+      "hashtags": ["Sustainability", "GreenTech", "Innovation"]
+    }
+  ]
+  
